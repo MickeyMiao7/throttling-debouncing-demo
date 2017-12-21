@@ -1,6 +1,6 @@
 ##	Demo
 
-[Git Page](https://github.com/MickeyMiao7/throttling-debouncing-demo.git)
+[Git Page](https://mickeymiao7.github.io/throttling-debouncing-demo/)
 
 
 
