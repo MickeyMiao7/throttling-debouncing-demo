@@ -1,4 +1,10 @@
-##	Simple demo of Throttling and Debouncing in javascript
+##	Demo
+
+[Git Page](https://github.com/MickeyMiao7/throttling-debouncing-demo.git)
+
+
+
+## Intro
 
 **Throttling:**  Limit the frequency of firing an event. 
 
